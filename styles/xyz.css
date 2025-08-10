@@ -1109,6 +1109,7 @@ footer {
     .resume_column_5 {
         background-color: #fff;
         width: 100%; 
+        max-width: 400px;
         padding: 16px 0 48px 0;
         flex: 100%;
     }
@@ -1222,7 +1223,7 @@ footer {
     .resume_column_5 {
         background-color: #fff;
         width: 100%; 
-        max-width: 600px;
+        max-width: 400px;
         padding: 16px 0 48px 0;
         flex: 100%;
     }
